@@ -1,10 +1,10 @@
 // Testdagi variantlar mana shu yerda yoziladi.
 // 1) c
-// 2) b
+// 2) c
 // 3) a
 // 4) b
 // 5) c
-// 6) a
+// 6) b
 // 7) a
 // 8) c
 // 9) b
